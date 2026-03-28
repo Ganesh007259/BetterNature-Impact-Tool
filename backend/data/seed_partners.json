@@ -1,0 +1,6 @@
+[
+  {"name": "Mid-South Food Bank", "type": "food_bank", "city": "Memphis", "state": "TN", "zip": "38109", "lat": 35.0450, "lng": -90.0100},
+  {"name": "Dorothy Day House", "type": "shelter", "city": "Memphis", "state": "TN", "zip": "38104", "lat": 35.1280, "lng": -89.9920},
+  {"name": "St. Patrick Center", "type": "partner_org", "city": "Memphis", "state": "TN", "zip": "38126", "lat": 35.1270, "lng": -90.0480},
+  {"name": "Binghampton Development Corp", "type": "partner_org", "city": "Memphis", "state": "TN", "zip": "38112", "lat": 35.1520, "lng": -89.9750}
+]

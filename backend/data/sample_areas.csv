@@ -1,0 +1,2 @@
+city,state,zip,lat,lng,food_insecurity_score,poverty_rate,population,need_priority_level
+Memphis,TN,38106,35.1156,-90.0501,0.92,0.38,28500,critical

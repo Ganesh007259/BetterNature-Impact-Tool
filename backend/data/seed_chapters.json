@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Memphis",
+    "city": "Memphis",
+    "state": "TN",
+    "lat": 35.1495,
+    "lng": -90.049,
+    "launch_date": "2021-05-15",
+    "lead_contact": "Chapter lead",
+    "total_events": 0,
+    "total_pounds": 0,
+    "status": "active"
+  },
+  {
+    "name": "Texas",
+    "city": "Houston",
+    "state": "TX",
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "launch_date": "2025-09-01",
+    "lead_contact": "TBD",
+    "total_events": 0,
+    "total_pounds": 0,
+    "status": "forming"
+  },
+  {
+    "name": "Atlanta",
+    "city": "Atlanta",
+    "state": "GA",
+    "lat": 33.749,
+    "lng": -84.388,
+    "launch_date": "2025-11-01",
+    "lead_contact": "TBD",
+    "total_events": 0,
+    "total_pounds": 0,
+    "status": "forming"
+  },
+  {
+    "name": "Florida",
+    "city": "Miami",
+    "state": "FL",
+    "lat": 25.7617,
+    "lng": -80.1918,
+    "launch_date": "2026-01-10",
+    "lead_contact": "TBD",
+    "total_events": 0,
+    "total_pounds": 0,
+    "status": "forming"
+  },
+  {
+    "name": "India",
+    "city": "Mumbai",
+    "state": "India",
+    "lat": 19.076,
+    "lng": 72.8777,
+    "launch_date": "2025-06-01",
+    "lead_contact": "TBD",
+    "total_events": 0,
+    "total_pounds": 0,
+    "status": "forming"
+  }
+]
