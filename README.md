@@ -1,11 +1,36 @@
 # BetterNature — Donation optimization & food insecurity mapping
 
+Licensed under the MIT License. See `LICENSE`.
+
 Internal-style demo: dashboard, **interactive map** (need intensity + events + chapters + partners), analytics, **rule-based priority recommendations** with narrative text, chapter table, CSV upload with **SQLite persistence**, **dataset metadata** (`/api/meta`), and **CSV exports** for recommendations and events.
 
 ## Stack
 
 - **Frontend:** React (Vite), Tailwind CSS, React Router, Leaflet, Recharts  
 - **Backend:** FastAPI, pandas  
+
+## Screenshots
+
+### Dashboard
+![Dashboard overview](docs/screenshots/dashboard.png)
+
+### Interactive map
+![Interactive map with need hotspots](docs/screenshots/map.png)
+
+### Analytics — trends
+![Analytics trends view](docs/screenshots/analytics-trends.png)
+
+### Analytics — need vs outreach
+![Need versus outreach chart](docs/screenshots/analytics-need-vs-outreach.png)
+
+### Recommendations
+![Ranked recommendations view](docs/screenshots/recommendations.png)
+
+### Chapters
+![Chapter status and impact table](docs/screenshots/chapters.png)
+
+### Data upload
+![Data upload page](docs/screenshots/data-upload.png)
 
 ## Quick start
 
@@ -109,3 +134,9 @@ If you control a single server (e.g. VPS), you can serve `dist/` and **reverse-p
 ## Frontend toolchain
 
 The app uses **Vite 8** with **`@vitejs/plugin-react` 5.2+** (they must stay compatible). Upgrade them together if you bump versions.
+
+## Contact
+
+Questions, feedback, or collaboration ideas:
+
+- **Email:** ganesh@betternatureofficial.org
