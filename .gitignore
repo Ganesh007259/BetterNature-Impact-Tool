@@ -7,3 +7,7 @@ frontend/dist/
 .DS_Store
 *.pyc
 *.tsbuildinfo
+.env
+.env.*
+*.pem
+*.key
